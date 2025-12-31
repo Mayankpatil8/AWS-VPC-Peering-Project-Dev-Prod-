@@ -36,6 +36,8 @@ The setup enables resources in one VPC to communicate with another VPC using pri
 - Security Groups
 
 ---
+<img width="1443" height="763" alt="image" src="https://github.com/user-attachments/assets/b4c4fb8f-0728-48a8-9262-c6e0e832830b" />
+
 <img width="1919" height="987" alt="Screenshot 2025-12-31 125224" src="https://github.com/user-attachments/assets/7f678a91-c7dc-4f01-a6bc-0734f98fe13e" />
 
 <img width="1920" height="985" alt="Screenshot 2025-12-31 125300" src="https://github.com/user-attachments/assets/a53a68ea-8bb4-46ce-8503-be1633b7f459" />
